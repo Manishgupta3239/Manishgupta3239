@@ -135,6 +135,6 @@ Smooth scrolling UI
 
 LinkedIn: linkedin.com/in/manish-gupta3061
 
-Email: (add your email)
+Email: guptamanish3239@gmail.com
 
 ⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
